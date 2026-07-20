@@ -1,6 +1,6 @@
 # LBT
 <p align="center">
-  <img src="./LBT_logo.png" alt="a candidate LBT logo" width="50%">
+  <img src="./LBT_logo.png" alt="a candidate LBT logo" width="30%">
 </p>
 
 A linear Boltzmann transport model for jet quenching \
