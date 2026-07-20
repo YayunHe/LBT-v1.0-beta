@@ -1,5 +1,8 @@
 # LBT
-![A candidate LBT logo](./LBT_logo.png){width=50%}
+<p align="center">
+  <img src="./LBT_logo.png" alt="a candidate LBT logo" width="50%">
+</p>
+
 A linear Boltzmann transport model for jet quenching \
 Authors: Tan Luo, Shanshan Cao, Yayun He and Xin-Nian Wang
 
